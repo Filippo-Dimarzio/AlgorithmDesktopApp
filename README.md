@@ -8,6 +8,7 @@ This app features three different string-based algorithms, accessible through si
   - **Most Frequent Element**
   - **Count Occurrences**
   - **Count Vowels and Consonants**
+  - **Find Largest Number**
 
 - All algorithms are implemented using linear-time complexity (O(n)).
 
